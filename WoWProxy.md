@@ -13,6 +13,8 @@
 5. Click ![Configure](configure.png), then go to the Network Rule tab
 6. Click Add then click OK (all the boxes can remain blank)
 
+   ![Weird add box with empty boxes](addbox.png)
+
    If it looks like this, hit OK again
    
    ![It should look like this](socks1.png)
