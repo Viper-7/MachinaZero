@@ -1,16 +1,17 @@
 # Jehebus's WoW Proxy Server (MachinaZero)
 
 1. Download and Install Sockscap64 - https://www.sockscap64.com/homepage/
-Direct links:
-https://www.mediafire.com/folder/32rj1769a2w82/v4.7
-https://mega.nz/#F!qBoD2BiB!BZbHB1tetB79SAvJEoVlLw
-https://www.dropbox.com/sh/yf88deqbe3m1xng/AAAiaAg6FR1uKtnBpcH5Gzv5a?dl=0
+
+    Direct links:
+    - https://www.mediafire.com/folder/32rj1769a2w82/v4.7
+    - https://mega.nz/#F!qBoD2BiB!BZbHB1tetB79SAvJEoVlLw
+    - https://www.dropbox.com/sh/yf88deqbe3m1xng/AAAiaAg6FR1uKtnBpcH5Gzv5a?dl=0
 
 2. [No] you don't want it to add your web browser, [Agree] to the terms
 
-3. Click the + Apps button, find World of Warcraft in the list and tick it
+3. Click the + Apps button, find World of Warcraft in the list, tick it then click OK
 
-4. Click Configure, then go to the Network Rule tab.
+4. Click Configure, then go to the Network Rule tab
 
 5. Click Add then click OK (all the boxes can remain blank) and OK again
 
