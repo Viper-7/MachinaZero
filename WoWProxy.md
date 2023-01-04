@@ -7,10 +7,10 @@
     - https://mega.nz/#F!qBoD2BiB!BZbHB1tetB79SAvJEoVlLw
     - https://www.dropbox.com/sh/yf88deqbe3m1xng/AAAiaAg6FR1uKtnBpcH5Gzv5a?dl=0
 2. [No] you don't want it to add your web browser, [Agree] to the terms
-3. Click the ![+ Apps](apps.png) button, find World of Warcraft in the list, tick it then click OK
+3. Click ![+ Apps](apps.png), find World of Warcraft in the list, tick it then click OK
    ![Example Game List](list.png)
 5. Click ![Configure](configure.png), then go to the Network Rule tab
-6. Click ![Add](add.png) then click OK (all the boxes can remain blank)
+6. Click Add then click OK (all the boxes can remain blank)
 
    If it looks like this, hit OK again
    
