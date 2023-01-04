@@ -21,11 +21,10 @@
    
    Click ![Exit](exit.png) (don't just close the window or it will just minimize to the tray)
 7. Run SocksCap64(Normal User Mode)
-8. [No] you don't want it to add your web browser
-9. Click ![Proxy](proxy.png)
-10. Click the blue + on the left
-11. Click in the list where it says Click to Edit IP, and enter machinazero.com
-12. Click in the Account and Password boxes, entering your login details
+8. Click ![Proxy](proxy.png)
+9. Click the blue + on the left
+10. Click in the list where it says Click to Edit IP, and enter machinazero.com
+11. Click in the Account and Password boxes, entering your login details
     ![Example Proxy](proxylist.png)
-14. Press Save
-15. We're done! You can now run World of Warcraft via the icon inside SocksCap, and your connection will use the MachinaZero tunnel
+12. Press Save
+13. We're done! You can now run World of Warcraft via the icon inside SocksCap, and your connection will use the MachinaZero tunnel
