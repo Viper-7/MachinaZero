@@ -10,6 +10,7 @@
     It's compressed with 7zip, grab it [here](https://www.7-zip.org/download.html) if you need.
     
     Right click the downloaded 7z file and go to 7zip -> Extract Here
+    
     Run the SocksCap64-setup-4.7.exe file it creates and follow the install wizard.
     
 2. [No] you don't want it to add your web browser, [Agree] to the terms
