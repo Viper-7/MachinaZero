@@ -8,6 +8,7 @@
     - https://www.dropbox.com/sh/yf88deqbe3m1xng/AAAiaAg6FR1uKtnBpcH5Gzv5a?dl=0
 2. [No] you don't want it to add your web browser, [Agree] to the terms
 3. Click ![+ Apps](apps.png), find World of Warcraft in the list, tick it then click OK
+
    ![Example Game List](list.png)
 5. Click ![Configure](configure.png), then go to the Network Rule tab
 6. Click Add then click OK (all the boxes can remain blank)
@@ -17,7 +18,7 @@
    ![It should look like this](socks1.png)
    
 6. We're done with setup, but Sockscap is in Administrator mode, we need it in Normal User mode.
-   Click the Exit button (don't just close the window or it will just minimize to the tray)
+   Click ![Exit](exit.png) (don't just close the window or it will just minimize to the tray)
 7. Run SocksCap64(Normal User Mode)
 8. [No] you don't want it to add your web browser
 9. Click ![Proxy](proxy.png)
