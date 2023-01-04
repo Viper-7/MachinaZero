@@ -6,6 +6,8 @@
     - https://www.mediafire.com/folder/32rj1769a2w82/v4.7
     - https://mega.nz/#F!qBoD2BiB!BZbHB1tetB79SAvJEoVlLw
     - https://www.dropbox.com/sh/yf88deqbe3m1xng/AAAiaAg6FR1uKtnBpcH5Gzv5a?dl=0
+    
+    It's compressed with 7zip, grab it [here](https://www.7-zip.org/download.html) if you need
 2. [No] you don't want it to add your web browser, [Agree] to the terms
 3. Click ![+ Apps](apps.png), find World of Warcraft in the list, tick it then click OK
 
