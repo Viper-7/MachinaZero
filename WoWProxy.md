@@ -11,6 +11,8 @@
     
     Right click the downloaded 7z file and go to 7zip -> Extract Here
     
+    ![Extract Here](extract.png)
+    
     Run the SocksCap64-setup-4.7.exe file it creates and follow the install wizard.
     
 2. [No] you don't want it to add your web browser, [Agree] to the terms
