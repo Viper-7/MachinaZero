@@ -27,4 +27,5 @@
 11. Click in the Account and Password boxes, entering your login details
     ![Example Proxy](proxylist.png)
 12. Press Save
-13. We're done! You can now run World of Warcraft via the icon inside SocksCap, and your connection will use the MachinaZero tunnel
+
+We're done! You can now run World of Warcraft via the icon inside SocksCap, and your connection will use the MachinaZero tunnel
