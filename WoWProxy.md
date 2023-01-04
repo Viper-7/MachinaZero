@@ -13,7 +13,10 @@
 
 4. Click Configure, then go to the Network Rule tab
 
-5. Click Add then click OK (all the boxes can remain blank) and OK again
+5. Click Add then click OK (all the boxes can remain blank)
+   ![It should look like this](socks1.png)
+   
+   If it looks like this, hit OK again
 
 6. We're done with setup, but Sockscap is in Administrator mode, we need it in Normal User mode.
 Click the Exit button (don't just close the window or it will just minimize to the tray)
