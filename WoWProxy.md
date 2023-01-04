@@ -18,6 +18,7 @@
    ![It should look like this](socks1.png)
    
 6. We're done with setup, but Sockscap is in Administrator mode, we need it in Normal User mode.
+   
    Click ![Exit](exit.png) (don't just close the window or it will just minimize to the tray)
 7. Run SocksCap64(Normal User Mode)
 8. [No] you don't want it to add your web browser
